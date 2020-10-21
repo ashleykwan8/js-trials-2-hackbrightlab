@@ -13,7 +13,7 @@ isHometown('Redwood City')
 
 // 2. getFullName
 function getFullName(first_name, last_name){
-    console.log(first_name + last_name)
+    console.log(first_name + " " + last_name)
 }
 
 getFullName('Sarah', 'Green')
